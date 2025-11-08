@@ -18,3 +18,11 @@ with col2:
 
 
 st.sidebar.title("Menu")
+
+st.sidebar.markdown("""
+- Home
+- About
+- Contact           
+- Career                  
+- Login                  
+""")
