@@ -6,7 +6,7 @@
 
 import streamlit as st ## type:ignore
 
-st.title('CampusX')
+st.title('CampusX Online Platform')
 
 col1,col2=st.columns(2)
 
