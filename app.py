@@ -19,3 +19,4 @@ with col2:
 st.header('Courses')
 st.subheader('DSA')
 st.subheader('ML')
+st.subheader('DL')
