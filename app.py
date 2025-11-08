@@ -20,3 +20,13 @@ st.header('Courses')
 st.subheader('DSA')
 st.subheader('ML')
 st.subheader('DL')
+
+st.sidebar.title("Menu")
+
+st.sidebar.markdown("""
+- Home
+- About
+- Contact           
+- Career                  
+- Login                  
+""")
