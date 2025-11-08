@@ -16,3 +16,5 @@ with col1:
 with col2:
     st.header('Campusx is an Online Platform')
 
+st.header('Courses')
+st.subheader('DSA')
