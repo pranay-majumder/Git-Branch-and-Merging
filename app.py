@@ -35,4 +35,5 @@ st.sidebar.markdown("""
 # Footer section
 st.markdown("---")
 st.write("📧 Contact: pranay@example.com")
+st.write("📧 Contact: 8697677081")
 st.write("© 2025 Pranay Majumder")
