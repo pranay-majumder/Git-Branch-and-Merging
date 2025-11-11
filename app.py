@@ -37,3 +37,7 @@ st.markdown("---")
 st.write("📧 Contact: pranay@example.com")
 st.write("📧 Contact: 8697677081")
 st.write("© 2025 Pranay Majumder")
+
+## Add Selection Box on Side Bar
+st.sidebar.selectbox('Select One',['teacher','student'])
+st.sidebar.button('Select')
