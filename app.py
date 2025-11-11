@@ -30,3 +30,6 @@ st.sidebar.markdown("""
 - Career                  
 - Login                  
 """)
+
+## Add Selection Box on Side Bar
+st.sidebar.selectbox('Select One',['teacher','student'])
