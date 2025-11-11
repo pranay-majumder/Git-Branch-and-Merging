@@ -30,3 +30,9 @@ st.sidebar.markdown("""
 - Career                  
 - Login                  
 """)
+
+## Adding Footer Section
+# Footer section
+st.markdown("---")
+st.write("📧 Contact: pranay@example.com")
+st.write("© 2025 Pranay Majumder")
